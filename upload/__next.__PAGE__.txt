@@ -1,0 +1,12 @@
+1:"$Sreact.fragment"
+2:I[45678,["/_next/static/chunks/5629df31d821910d.js"],"default"]
+3:I[32177,["/_next/static/chunks/5629df31d821910d.js"],"default"]
+4:I[79722,["/_next/static/chunks/5629df31d821910d.js"],"default"]
+5:I[55786,["/_next/static/chunks/5629df31d821910d.js"],"default"]
+6:I[75854,["/_next/static/chunks/5629df31d821910d.js"],"default"]
+7:I[5500,["/_next/static/chunks/5629df31d821910d.js"],"Image"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/chunks/7114e31c374a5477.css","style"]
+0:{"buildId":"xUYRasjeN2QhTdyeiRvNp","rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","footer",null,{"className":"Footer-module__S6Hkya__footer","children":["$","div",null,{"className":"container Footer-module__S6Hkya__inner","children":[["$","div",null,{"className":"Footer-module__S6Hkya__logo","children":[["$","$L7",null,{"src":"/logo.png","alt":"Logo","width":30,"height":30}],["$","span",null,{"children":"kortisol.wtf"}]]}],["$","p",null,{"className":"Footer-module__S6Hkya__copy","children":["© ",2026," kortisol.wtf. All rights reserved."]}]]}]}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/7114e31c374a5477.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/5629df31d821910d.js","async":true}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"loading":null,"isPartial":false}
+a:null
